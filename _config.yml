@@ -72,8 +72,8 @@ lsi: False
 username: 3libras
 repo: 3libras
 branch: master
-relative_source: ../jasper2/
-destination: ../jasper2-pages/
+relative_source: /jasper2/
+destination: /jasper2-pages/
 production_url:  https://3libras.github.io/3libras/
 source_url:  https://github.com/3libras/jasper2/
 
